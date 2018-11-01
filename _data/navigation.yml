@@ -5,13 +5,13 @@ main:
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Blogs"
-    url: /sample-page
+    url: /blogs
 
   - title: "Projects"
-    url: /
-    
+    url: /projects
+
   - title: "Activities"
-    url: /
+    url: /activities
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
