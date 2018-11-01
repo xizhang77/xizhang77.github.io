@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Xi Zhang"
 title_separator          : "-"
 name                     : "Xi Zhang"
 description              : "An amazing website."
@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "Xi Zhang"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "4th year Ph.D. student working on data mining and text mining."
-  location         : "Stony Brook"
+  bio              : "Ph.D. student working on data mining and text mining."
+  location         : "Stony Brook, NY"
   # email            : "xi {remove} zhang {remove} 1 at cs dot stonybrook dot edu"
   links:
     - label: "Email"
@@ -121,7 +121,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://xizhang77.github.com/"
+      url: https://github.com/xizhang77"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
