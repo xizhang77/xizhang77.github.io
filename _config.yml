@@ -105,14 +105,14 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "4th year Ph.D. student working on data mining and text mining."
   location         : "Stony Brook"
-  email            : "xi {remove} zhang {remove} 1 at cs dot stonybrook dot edu"
+  # email            : "xi {remove} zhang {remove} 1 at cs dot stonybrook dot edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:xizhang1@cs.stonybrook.edu
-    - label: "Website"
+      # url: mailto:xizhang1@cs.stonybrook.edu
+    - label: "Linkedin"
       icon: "fas fa-fw fa-link"
-      url: "https://xizhang77.github.io"
+      url: "https://linkedin.com/in/xizhangsbu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
