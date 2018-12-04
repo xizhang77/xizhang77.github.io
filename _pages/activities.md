@@ -13,7 +13,7 @@ permalink: /activities.html
 <br> Present paper "Keyword Extraction for Document Clustering using Submodular Optimization" at [2017 New York Scientific Data Summit (NYSDS17)](https://www.bnl.gov/nysds17/), New York.
 
 * [May 2017 - Aug. 2017] 
-<br> Intern at [Brookhaven National Lab](https://www.bnl.gov/). Worked on algorithms that power scientific data mining and understanding.
+<br> Intern at [Computer Science Initiative Department](https://www.bnl.gov/compsci/), [Brookhaven National Laboratory](https://www.bnl.gov/). Worked on algorithms that power scientific data mining and understanding.
 
 
 * [May 2014 - Aug. 2014] 
