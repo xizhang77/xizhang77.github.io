@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Xi Zhang"
 title_separator          : "-"
-name                     : "Xi Zhang (张曦)"
+name                     : "Xi Zhang"
 description              : "An amazing website."
 url                      : https://xizhang77.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xi Zhang"
+  name             : "Xi Zhang (张曦)"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. student working on data mining and text mining."
   location         : "Stony Brook, NY"
