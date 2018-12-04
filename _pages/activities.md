@@ -6,12 +6,16 @@ author_profile: true
 permalink: /activities.html
 ---
 
-This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
+* [Aug. 2018] 
+<br> Give talk for "Streaming Classical Multidimensional Scalling" at [2018 New York Scientific Data Summit (NYSDS18)](https://www.bnl.gov/nysds18/), New York.
 
-> Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi'a coladas. (And gettin' caught in the rain.)
+* [Aug. 2017] 
+<br> Present paper "Keyword Extraction for Document Clustering using Submodular Optimization" at [2017 New York Scientific Data Summit (NYSDS17)](https://www.bnl.gov/nysds17/), New York.
 
-...or something like this:
+* [May 2017 - Aug. 2017] 
+<br> Intern at [Brookhaven National Lab](https://www.bnl.gov/). Worked on algorithms that power scientific data mining and understanding.
 
-> The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.
 
-You should probably delete this page and create new pages for your content. Have fun!
+* [May 2014 - Aug. 2014] 
+<br> Intern at [Center of Excellence in Wireless and Information Technology](https://www.cewit.org/). Worked on building models and novel approaches that can better understand heterogeneous biological data. 
+
